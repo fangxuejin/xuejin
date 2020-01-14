@@ -1,4 +1,4 @@
-# xuejin
+# TOP_1
 TopK-URL
 Context
 This demo implements an algorithm for processing massive amounts of data => hahsmap + min-heap. This project uses a url file as an example, assuming the file size is 100G. We need to find the top K urls that have the most occurrences in all urls with a machine with only 1G of memory.
